@@ -1,0 +1,115 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    background-color: white;
+    text-align: center;
+}
+header {
+    
+    background-color: cornsilk;
+    color: blue;
+    padding: 20px;
+}
+nav ul {
+list-style: none;
+padding: 0;
+}
+nav ul li {
+   display: inline;
+   margin: 0 15px;
+}
+nav ul li a{
+    color: brown;
+    text-decoration: none;
+}
+nav ul a:hover{
+    background-color: aqua;
+}
+.padre{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+
+}
+.padre .hijo{
+    width: 70%;
+    margin: auto;
+}
+.padre .hijo div{
+    width: 80%;
+    padding: 15px;
+    background-color: blue;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+.padre .hijo img{
+    width: 80%;
+    border-radius: 15px;
+}
+.padre .tecnologia {
+    width: 30%;
+
+}
+.padre .tecnologia p{
+    background-color: black;
+    border-radius: 15px;
+    padding: 10px;
+    height: 500px;
+    color: blanchedalmond;
+    text-align: justify;
+}
+footer{
+    margin: 100px;
+}
+footer p{
+    padding: 100px;
+}
+header h1{
+    font-size: 40px;
+    color: blue;
+}
+h2{
+    font-size: 30px;
+    color: aqua;
+}
+.tecnologia p{
+    font-size: 25px;
+    color: aquamarine;
+    text-align: justify;
+}
+footer p{
+    background-color: brown;
+    color: aliceblue;
+    padding: 1px;
+    margin: 10px;
+    text-align: justify;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
