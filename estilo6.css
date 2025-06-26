@@ -64,29 +64,24 @@ nav ul a:hover{
 footer{
     margin: 100px;
 }
-footer p{
-    padding: 100px;
-}
-header h1{
-    font-size: 40px;
-    color: blue;
-}
-h2{
-    font-size: 30px;
-    color: aqua;
-}
-.tecnologia p{
-    font-size: 25px;
-    color: aquamarine;
-    text-align: justify;
-}
-footer p{
-    background-color: brown;
-    color: aliceblue;
-    padding: 1px;
-    margin: 10px;
-    text-align: justify;
-}
+footer {
+      background-color: #333;
+      color: rgb(8, 1, 1);
+      text-align: center;
+      padding: 20px 0;
+    }
+
+    .social-icons a {
+      color: rgb(17, 2, 2);
+      margin: 0 15px;
+      text-decoration: none;
+      font-size: 24px;
+      transition: color 0.3s ease;
+    }
+
+    .social-icons a:hover {
+      color: #00aced;
+    }
 
 
 
